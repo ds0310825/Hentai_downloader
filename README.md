@@ -19,6 +19,10 @@ nhentai_downloader_ui.py: 設定UI的檔案
 EXE檔可以於下面的網址下載:  
 https://drive.google.com/open?id=1KCugooKwTI28KhPiOwvfDidcn6z7powW 
 
+# Introduction  
+  
+![image](https://github.com/ds0310825/nHentai_downloader/blob/master/introduction/%E5%85%88%E7%9C%8B.png)  
+![image](https://github.com/ds0310825/nHentai_downloader/blob/master/introduction/%E5%86%8D%E7%9C%8B.png)
 
   
 ### 本作品僅供學術交流，遵守著作權相關法律條約。下載完後24小時內刪除，若私作為其他及商業用途而觸犯法律違法，後果請自行負責，概與本人無關。下載者請勿私作為商業用途及其他法律禁止行為而違法，請支持正版。 ###
